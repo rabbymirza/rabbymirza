@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @rabbymirza
-- 👀 I’m interested in travelling.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on buisness
-- 📫 no need to reach me !!
-- 😄 single !
-- ⚡ no lie !
+##Hello
+I am Mirza Shakil Hasan Rabby. I worked on Opal, Optimizely's agent orchestration platform, where I gained extensive experience in building agentic AI systems, orchestration frameworks, and the infrastructure that powers them. I've completed my undergrad on Computer Science & Engineering at Dhaka International University. Besides tech I'm also fairly invested in fitness & watching series.
 
-<!---
-rabbymirza/rabbymirza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 💡 **I'm open to new opportunities in the domain of backend engineering, systems, vector databases**
+
+##My Tech!
